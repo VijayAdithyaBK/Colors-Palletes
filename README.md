@@ -1,11 +1,11 @@
 # Colors-Palletes
 Key concepts covered:
 
-document.getElementById()
-document.querySelector()
-addEventListener()
-document.body.style.backgroundColor
-Math.floor()
+document.getElementById(),
+document.querySelector(),
+addEventListener(),
+document.body.style.backgroundColor,
+Math.floor(),
 Math.random()
 
 Snapshots:
